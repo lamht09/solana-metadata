@@ -1,0 +1,6 @@
+{
+  "name": "LH Test token",
+  "symbol": "LHTEST",
+  "description": "This is a test token for the LHTEST project.",
+  "image": "https://raw.githubusercontent.com/lamht09/solana-metadata/refs/heads/main/LHTEST/image.jpg"
+}
